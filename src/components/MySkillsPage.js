@@ -99,20 +99,15 @@ const MySkillsPage = () => {
 I'm currently learning Web3 and love to build decentralised applications.
 </Description>
 <Description>
-{/* <strong>I like to Design</strong>
-<ul>
-    <li>
-        Web Design
-    </li>
-    <li>
-        Mobile Apps
-    </li>
-</ul> */}
+<strong>Skills</strong>
+<p>
+Solidity, NextJS, HardHat etc.
+</p>
 </Description>
 <Description>
 <strong>Tools</strong>
 <ul>
-   <p>Solidity, Hardhat, Moralis, Ganache etc.</p>
+   <p> Moralis, Ganache etc.</p>
     
 </ul>
 </Description>

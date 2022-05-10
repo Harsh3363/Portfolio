@@ -73,10 +73,10 @@ const AboutPage = () => {
         </Spaceman>    
         <Main>
         <p>
+        <ul>
         <li>
         Undergraduate from NMIT, Batch of '24.
         </li>
-        <ul>
         <li>
         Self taught developer who build Websites and DApp, engage with the community and create content.
         </li>
