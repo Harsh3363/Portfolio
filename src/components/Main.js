@@ -7,6 +7,7 @@ import PowerButton from '../subComponent/PowerButton'
 import SocialIcons from '../subComponent/SocialIcons'
 import { YinYang } from './AllSvgs'
 import Intro from './Intro'
+import { HashLoader  } from 'react-spinners'
 
 
 const MainContainer = styled.div`
@@ -122,14 +123,15 @@ transition: height 0.5s ease, width 1s ease 0.5s;
 `
 
 
-
 const Main = () => {
 
   const [click, setClick] = useState(false);
 
   const handleClick = () => setClick(!click); 
 
+  
   return (
+
     <MainContainer>
       <DarkDiv  click={click} />
       <Container>
@@ -143,6 +145,7 @@ const Main = () => {
       <YinYang onClick={()=> handleClick()} width={click ? 120 : 200} height={click ? 120 : 200} fill='currentColor' />
       <span>click here</span>
     </Center>
+
 
       <Contact target="_blank" to={{pathname:"mailto:harsh.kanodiya@gmail.com"}}>
         <motion.h2
@@ -226,6 +229,7 @@ const Main = () => {
 
       {click? <Intro click={click} />: null}
     </MainContainer>
+    
   )
 }
 

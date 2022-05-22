@@ -101,13 +101,13 @@ I'm currently learning Web3 and love to build decentralised applications.
 <Description>
 <strong>Skills</strong>
 <p>
-Solidity, NextJS, HardHat etc.
+Solidity, NextJS, HardHat, Ganache etc.
 </p>
 </Description>
 <Description>
 <strong>Tools</strong>
 <ul>
-   <p> Moralis, Ganache etc.</p>
+   <p> Moralis, Alchemy, Sanity.io etc.</p>
     
 </ul>
 </Description>
@@ -123,7 +123,7 @@ I value business or brand for which i'm creating, thus i enjoy bringing new idea
 <Description>
 <strong>Skills</strong>
 <p>
-Html, Css, Js, React, Bootstrap, Tailwind, Firebase etc.
+ JavaScript, API's, ReactJS, NextJS, Bootstrap, MongoDB, Tailwind, Firebase, etc.
 </p>
 </Description>
 <Description>
