@@ -48,8 +48,8 @@ export const Work = [
     {
         id:5,
         name:"Todo App",
-        description:"A simple Todo list webApp build using JS.",
-        tags:["react","api","sass"],
+        description:"A Todo list webApp which helps you keep a note of your daily work. User can use different routes in this to store that specific work.",
+        tags:["ReactJS","MongoDB","Heroku"],
         
         demo:"https://radiant-sands-00754.herokuapp.com/",
         github:"https://github.com/Harsh3363/todo-v1"
