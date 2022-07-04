@@ -1,19 +1,19 @@
 export const Blogs = [
-    {
+     {
         id:1,
         name:"Solidity – Programming ERC-721 Token",
-        tags:["Blockchain,Ethereum"],
+        tags:["Blockchain, #Ethereum"],
         date:"",
         imgSrc:"https://pbs.twimg.com/profile_images/1476085383469445124/1ZRVN-QB_400x400.jpg",
         link:"https://www.geeksforgeeks.org/solidity-programming-erc-721-token/"
     },
     {
         id:2,
-        name:"Under Construction",
-        tags:[""],
+        name:"Difference Between Ethereum and Solana",
+        tags:["Blockchain, #Ethereum, #Solana"],
         date:"",
-        imgSrc:"https://media.istockphoto.com/photos/webpage-under-construction-picture-id592021466",
-        link:""
+        imgSrc:"https://pbs.twimg.com/profile_images/1476085383469445124/1ZRVN-QB_400x400.jpg",
+        link:"https://www.geeksforgeeks.org/difference-between-ethereum-and-solana/"
     },
     {
         id:3,
