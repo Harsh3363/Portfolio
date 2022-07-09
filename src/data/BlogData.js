@@ -66,4 +66,38 @@ export const Blogs = [
         link:""
     },
   
+    {
+        id:9,
+        name:"Under Construction",
+        tags:[""],
+        date:"",
+        imgSrc:"https://media.istockphoto.com/photos/webpage-under-construction-picture-id592021466",
+        link:""
+    },
+  
+    {
+        id:10,
+        name:"Under Construction",
+        tags:[""],
+        date:"",
+        imgSrc:"https://media.istockphoto.com/photos/webpage-under-construction-picture-id592021466",
+        link:""
+    },
+    {
+        id:11,
+        name:"Under Construction",
+        tags:[""],
+        date:"",
+        imgSrc:"https://media.istockphoto.com/photos/webpage-under-construction-picture-id592021466",
+        link:""
+    },
+    {
+        id:12,
+        name:"Under Construction",
+        tags:[""],
+        date:"",
+        imgSrc:"https://media.istockphoto.com/photos/webpage-under-construction-picture-id592021466",
+        link:""
+    }
+  
 ] 
