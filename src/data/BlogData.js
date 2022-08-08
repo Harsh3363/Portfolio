@@ -17,11 +17,11 @@ export const Blogs = [
     },
     {
         id:3,
-        name:"Under Construction",
-        tags:[""],
+        name:"Introduction to Polygon",
+        tags:["Blockchain, #Polygon"],
         date:"",
-        imgSrc:"https://media.istockphoto.com/photos/webpage-under-construction-picture-id592021466",
-        link:""
+        imgSrc:"https://pbs.twimg.com/profile_images/1476085383469445124/1ZRVN-QB_400x400.jpg",
+        link:"https://www.geeksforgeeks.org/introduction-to-polygon/"
     },
     {
         id:4,
