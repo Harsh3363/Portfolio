@@ -1,7 +1,7 @@
 export const Work = [
     {
         id:1,
-        name:"Nft MarketPlace",
+        name:"NFTroot",
         description:"Made a e-commerce website for buying nft's. Here you can purchase nft's using the custom made token, buy token's using Eth. You can see the transaction live on the Etherscan website. ",
         tags:["Solidity","NextJS","Moralis"],
         
@@ -10,7 +10,7 @@ export const Work = [
     },
     {
         id:2,
-        name:"Uber-web3",
+        name:"CabMe",
         description:"A web3 version of Uber, where you can make payments using the Eth.  Select the pickUp and DropOff location and get estimated fare",
         tags:["Solidity","NextJS","Sanity.io","MapBox API"],
         
