@@ -2,7 +2,7 @@ export const Blogs = [
      {
         id:1,
         name:"Solidity – Programming ERC-721 Token",
-        tags:["Blockchain, #Ethereum"],
+        tags:["Blockchain #Ethereum"],
         date:"",
         imgSrc:"https://pbs.twimg.com/profile_images/1476085383469445124/1ZRVN-QB_400x400.jpg",
         link:"https://www.geeksforgeeks.org/solidity-programming-erc-721-token/"
@@ -10,7 +10,7 @@ export const Blogs = [
     {
         id:2,
         name:"Difference Between Ethereum and Solana",
-        tags:["Blockchain, #Ethereum, #Solana"],
+        tags:["Blockchain #Ethereum #Solana"],
         date:"",
         imgSrc:"https://pbs.twimg.com/profile_images/1476085383469445124/1ZRVN-QB_400x400.jpg",
         link:"https://www.geeksforgeeks.org/difference-between-ethereum-and-solana/"
@@ -18,7 +18,7 @@ export const Blogs = [
     {
         id:3,
         name:"Introduction to Polygon",
-        tags:["Blockchain, #Polygon"],
+        tags:["Blockchain #Polygon"],
         date:"",
         imgSrc:"https://pbs.twimg.com/profile_images/1476085383469445124/1ZRVN-QB_400x400.jpg",
         link:"https://www.geeksforgeeks.org/introduction-to-polygon/"
